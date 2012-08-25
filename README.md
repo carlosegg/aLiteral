@@ -47,13 +47,20 @@ mvn clean install
 Para integrarlo con ![develenv] (http://develenv.softwaresano.com) se han de realizar los siguientes pasos:
 
 * Acceder por ssh a develenv
+
 ```
 ssh root@develenv
 su - develenv
 cd app/jenkins/jobs
 mkdir -p aLiteral
-wget 
+wget https://raw.github.com/carlosegg/aLiteral/master/src/main/jenkins/aLiteral/config.xml
 ```
+
+* Recargar la configuración de jenkins
+
+En un navegador acceder a http://develenv/jenkins/reload para que cargue la configuración del job de jenkins (aLiteral)
+
+
 
 7. Documentación
 ----------------
