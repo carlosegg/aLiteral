@@ -3,7 +3,7 @@ aLiteral
 
 1. Introducción
 ---------------
-Conversor de numeros y fechas de formato numérico a formato texto
+Conversor de numeros y fechas de formato numérico a formato texto(castellano y valenciano). 
 
 Librería cortesía de Javier Olcina (javier.olcina@uv.es)
 
