@@ -14,7 +14,7 @@ Librería cortesía de Javier Olcina (javier.olcina@uv.es)
 ----------------------
 Java 1.6 o superior
 
-3.- Configuración aplicación
+3. Configuración aplicación
 ----------------------------
   Dos ficheros de configuración:
     ./conf/log4j.xml --> Configuración de las trazas con log4j
@@ -37,16 +37,15 @@ cd bin
 ./startup.bat -->Para entornos windows
 
 
-5. Documentación
-----------------
-Toda la documentación del proyecto está disponible en ${repoPublicSiteUrl}/${project.groupId}/${project.artifactId}
-
-6. Compilación
+5. Compilación
 --------------
 mvn clean install
 
-7. Integración con develenv
+6. Integración con ![develenv] (http://develenv.softwaresano.com)
 ---------------------------
 
-Para integrarlo con develenv se han de realizar los siguientes pasos:
+Para integrarlo con ![develenv] (http://develenv.softwaresano.com) se han de realizar los siguientes pasos:
 
+5. Documentación
+----------------
+Toda la documentación del proyecto está disponible en ${repoPublicSiteUrl}/${project.groupId}/${project.artifactId}
