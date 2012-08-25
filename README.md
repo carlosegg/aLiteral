@@ -63,7 +63,7 @@ wget https://raw.github.com/carlosegg/aLiteral/master/src/main/jenkins/aLiteral/
 * Ejecutar el job de jenkins correspondiente a aLiteral
  Si la ejecución es correcta se deben haber creado los siguientes links
 
-Site del proyecto: http://develenv/sites/es.uv/aLiteral/
-Métricas del proyecto: http://develenv/sonar/project/index/es.uv:aLiteral
-Artefacto del proyecto: http://develenv/nexus/content/groups/public-snapshots/es/uv/aLiteral/0.0.1-SNAPSHOT/
+ * Site del proyecto: http://develenv/sites/es.uv/aLiteral/
+ * Métricas del proyecto: http://develenv/sonar/project/index/es.uv:aLiteral
+ * Artefacto del proyecto: http://develenv/nexus/content/groups/public-snapshots/es/uv/aLiteral/0.0.1-SNAPSHOT/
 
