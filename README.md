@@ -58,10 +58,12 @@ wget https://raw.github.com/carlosegg/aLiteral/master/src/main/jenkins/aLiteral/
 
 * Recargar la configuración de jenkins
 
-En un navegador acceder a http://develenv/jenkins/reload para que cargue la configuración del job de jenkins (aLiteral)
+ En un navegador acceder a http://develenv/jenkins/reload para que cargue la configuración del job de jenkins (aLiteral)
 
+* Ejecutar el job de jenkins correspondiente a aLiteral
+ Si la ejecución es correcta se deben haber creado los siguientes links
 
+Site del proyecto: http://develenv/sites/es.uv/aLiteral/
+Métricas del proyecto: http://develenv/sonar/project/index/es.uv:aLiteral
+Artefacto del proyecto: http://develenv/nexus/content/groups/public-snapshots/es/uv/aLiteral/0.0.1-SNAPSHOT/
 
-7. Documentación
-----------------
-Toda la documentación del proyecto está disponible en ${repoPublicSiteUrl}/${project.groupId}/${project.artifactId}
