@@ -30,7 +30,7 @@ ejecutar:
 java -jar ${project.artifactId}-${project.version}.jar
 
 Si se quiere modificar la línea de ejecución de la aplicación, o coger todos los componentes presentes en el directorios lib/
-ejecutar la calculadora basta con situarse en el directorio bin y ejecutar:
+ejecutar la aplicación basta con situarse en el directorio bin y ejecutar:
 
 cd bin
 ./startup.sh -->Para entornos linux
