@@ -64,9 +64,9 @@
 	<!-- Configuración del SCM (SVN) -->
 	<!-- [MODIFICAR] Poner las urls del SVN correspondiente, sin utilizar propiedades -->
 	<scm>
-		<connection>scm:hg:http://localhost:8000</connection>
-		<developerConnection>scm:hg:http://localhost:8000</developerConnection>
-		<url>http://localhost:8000</url>
+		<connection>scm:git:git://github.com/carlosegg/aLiteral.git</connection>
+		<developerConnection>scm:git:git@github.com:carlosegg/aLiteral.git</developerConnection>
+		<url>https://github.com/carlosegg/aLiteral</url>
 	</scm>
 	<build>
 		<!-- Propiedades del proyecto dependendientes del entorno -->
