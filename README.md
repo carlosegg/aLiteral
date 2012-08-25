@@ -46,6 +46,15 @@ mvn clean install
 
 Para integrarlo con ![develenv] (http://develenv.softwaresano.com) se han de realizar los siguientes pasos:
 
-5. Documentación
+* Acceder por ssh a develenv
+```
+ssh root@develenv
+su - develenv
+cd app/jenkins/jobs
+mkdir -p aLiteral
+wget 
+```
+
+7. Documentación
 ----------------
 Toda la documentación del proyecto está disponible en ${repoPublicSiteUrl}/${project.groupId}/${project.artifactId}
